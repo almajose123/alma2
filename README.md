@@ -1,2 +1,2 @@
 # alma2
-tkm college opf engineering
+tkm college of engineering
